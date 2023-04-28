@@ -24,6 +24,7 @@ public class SpringbootVscMavenJavaCopilotApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootVscMavenJavaCopilotApplication.class, args);
+		
 		SpringbootVscMavenJavaCopilotApplication obj = new SpringbootVscMavenJavaCopilotApplication();
 		obj.factorial(5);
 	}
